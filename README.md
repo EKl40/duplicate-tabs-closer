@@ -1,6 +1,9 @@
 # Duplicate Tabs Closer
 
 
+<sub>This branch tracks <code>https://github.com/webberLV/duplicate-tabs-closer</code></sub>
+---
+
 Duplicate Tabs Closer detects and closes duplicate tabs.
 
 * Use the WebExtensions API
